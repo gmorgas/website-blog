@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url><loc>http://grzegorzmorgas.pl/</loc><changefreq>never</changefreq><priority>1.00</priority></url>
+<url><loc>http://grzegorzmorgas.pl/pszczelarstwo</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://grzegorzmorgas.pl/winiarstwo</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+<url><loc>http://grzegorzmorgas.pl/kontakt</loc><changefreq>never</changefreq><priority>0.85</priority></url>
+<url><loc>http://grzegorzmorgas.pl/pszczelarstwo/pasieka-zimowa-pora</loc><changefreq>monthly</changefreq><priority>0.69</priority></url>
+
+</urlset>
